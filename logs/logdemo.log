@@ -1,0 +1,12 @@
+14:38:05.804 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:05.809 [main] ERROR org.Logging.LoggingDemo - Hello World!
+14:38:05.810 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:05.810 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:05.810 [main] DEBUG org.Logging.LoggingDemo - Hello World!
+14:38:12.313 [main] WARN  org.Logging.LoggingDemo - Hello World!
+14:38:12.316 [main] ERROR org.Logging.LoggingDemo - Hello World!
+14:38:12.316 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:12.316 [main] ERROR org.Logging.LoggingDemo - Hello World!
+14:38:12.316 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:12.317 [main] INFO  org.Logging.LoggingDemo - Hello World!
+14:38:12.317 [main] DEBUG org.Logging.LoggingDemo - Hello World!
